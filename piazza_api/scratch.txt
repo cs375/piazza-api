@@ -30,7 +30,7 @@ FUNCTIONALITY
 Users: UID, name, email, TA
 Posts: nr, student uid, section date, date posted, full subject, tags, responded to (Y/N)
 Sections: name, email, M, Tu, W, Th, F, extra
-Final: M, T, W, Th, F ; each day will be represented as number of posts left / number of posts to be responded to 
+Final: M, T, W, Th, F ; see key below 
 
 ===
 
