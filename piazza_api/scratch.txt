@@ -1,0 +1,172 @@
+{'history_size': 1, 'folders': ['self_reflection', 'emaan'], 'nr': 381, 'data': {'embed_links': []}, 'created': '2021-07-05T20:39:55Z', 'bucket_order': 3, 'no_answer_followup': 0, 'change_log': [{'anon': 'no', 'uid': 'jzqdjhlqvpz5kr', 'data': 'kqr37gb18ck4zw', 'v': 'private', 'type': 'create', 'when': '2021-07-05T20:39:55Z'}], 'bucket_name': 'Today', 'history': [{'anon': 'no', 'uid': 'jzqdjhlqvpz5kr', 'subject': 'Brianna Fan, CS 70, 07/01 [Discussion]', 'created': '2021-07-05T20:39:55Z', 'content': '<p><span style="text-decoration:underline">Before your section</span><br /> <br /><strong>What are the learning goals of the discussion section or lab?</strong><br />- continuing modular arithmetic, more focus on equations and chinese remainder theorem<br /><br /><strong>Which topic do you predict will be the most difficult for the students to learn?</strong><br />- how chinese remainder theorem works, what modular equivalencies mean<br /><br /><strong>What is one thing about your teaching that you want to focus on during this class?</strong><br />- being more encouraging, saying &#34;great question&#34; per this week&#39;s 375 class<br /><br /><strong>What activities will you do during class? (e.g. Group work? Pair work? Lecture? Physical demo?)</strong><br />- breakout rooms, group solving of the last CRT question<br /><br /><span style="text-decoration:underline">Immediately after your section</span><br /> <br /><strong>First things first I’m the realest</strong><br /> <br /><strong>What went really well today? :)</strong><br />- Students were very engaged, especially in the second section. They made some jokes and participated in the chat as well, seemed like they were comfortable with each other as well. Someone even asked where another student was bc they had an excused absence.<br /><br /><strong>What didn’t go so well?</strong><br />- Didn&#39;t get to the last question for the first section, but I got to it in the second and it went well.</p>\n<p>- Fireworks were going off (Canada Day) which was slightly 
+disruptive but I think it actually made the atmosphere more relaxed and was fun for the students.<br /><br /><strong>Presentation</strong><br /> <br />Did you:</p>\n<ul><li>speak in a clear voice that could be easily heard?\xa0<strong>Yes</strong></li><li dir="ltr">write clearly?\xa0<strong>Yes</strong></li><li dir="ltr">listen carefully to students’ comments and questions without interrupting?\xa0<strong>Yes</strong></li><li dir="ltr">appear confident?\xa0<strong>Yes</strong></li><li dir="ltr">appear enthusiastic?\xa0<strong>Yes</strong></li><li dir="ltr">provide clear explanations?\xa0<strong>Yes</strong></li><li dir="ltr">explain terminology?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving your presentation:</strong><br />- Noting the times for how long it takes to go over stuff, as it always varies and one section may be slower than another<br /><br /><strong>Classroom Climate</strong><br /> <br />Did you:</p>\n<ul><li dir="ltr">address students of all genders equally?\xa0<strong>Yes</strong></li><li dir="ltr">address students of different ethnic groups equally?\xa0<strong>Yes</strong></li><li dir="ltr">address shy and forthcoming students equally?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students were generally happy (e.g. no angry students)?\xa0<strong>Yes</strong></li><li dir="ltr">take the time to learn your students’ names?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving the classroom climate:</strong><br />- More fun things at the beginning of class for those who come early, especially to engage the 1st section<br /><br /><strong>Student Participation</strong><br /> </p>\n<ul><li dir="ltr">Are students comfortable interacting with you?\xa0<strong>Yes</strong></li><li dir="ltr">Are the students comfortable interacting with each other?\xa0<strong>Yes</strong></li><li dir="ltr">How often were you talking versus the students?\xa0<strong>More student talking now but still mainly me</strong></li><li dir="ltr">Did you encourage the students to ask questions?\xa0<strong>Yes</strong></li><li dir="ltr">Are students comfortable asking “stupid” questions?\xa0<strong>Yes</strong></li><li dir="ltr">Were you happy with how long it took for students to answer your questions?\xa0<strong>Yes</strong></li><li dir="ltr">Did the students seem interested and engaged?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving student participation:</strong><br />- Doing more of the group problem solving, but me stepping back/turning video off to let them brainstorm for a bit without me<br /><br /><strong>Focusing on Students</strong><br /> <br />Did you:</p>\n<ul><li dir="ltr">try to answer a student’s question with a question?\xa0<strong>Yes</strong></li><li dir="ltr">try to find out what the students knew before giving an explanation?\xa0<strong>Yes</strong></li><li dir="ltr">provide explanations to address both struggling and excelling students?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students understood your explanations?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students, in general, really understand with the material?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for tailoring your teaching to the needs of your students:</strong><br />- Continuing to take their feedback, focusing on areas where 
+it seems like they&#39;re struggling more--especially for the midterm</p>\n<p> <br /><strong>Link to previous self-reflection: @380</strong><br /> </p>'}], 'type': 'question', 'tags': ['emaan', 'self_reflection', 'student', 'unanswered'], 'tag_good': [], 'unique_views': 2, 'children': [], 'tag_good_arr': [], 'no_answer': 1, 'id': 'kqr37gaymtt4zv', 'config': {'editor': 'rte', 'feed_groups': 'instr_kp3aw8qu5pkm9,jzqdjhlqvpz5kr', 'seen': {'379': 1, '380': 0}}, 'status': 'private', 'drafts': {}, 'request_instructor': 0, 'request_instructor_me': False, 'bookmarked': 2, 'num_favorites': 0, 'my_favorite': False, 'is_bookmarked': False, 'is_tag_good': False, 'q_edits': [], 'i_edits': [], 's_edits': [], 't': 1625523874917, 'default_anonymity': 'no'}
+
+===
+
+Check for: each student has posted in:
+- correct folders
+- not missing posts (some multiple per day)
+- all have been responded to
+- average post lag 
+- NO MULTIPOSTING FOR ONE DAY! (woohoo)
+- video Observation credit
+- video observation RESPONSES
+
+Common reasons we didn/t find ur post:
+- wrong title (format, date, etc)
+
+End of summer survey:
+- any days you didnt teach a section you normally would have OR any days you taught section on a day you didn't originally indicate?
+- any other discrepancies? 
+- anything else?
+
+===
+
+FUNCTIONALITY
+
+===
+
+Users: UID, name, email, TA
+Posts: nr, student uid, section date, date posted, full subject, tags, responded to (Y/N)
+Sections: name, email, M, Tu, W, Th, F, extra
+Final: M, T, W, Th, F ; each day will be represented as number of posts left / number of posts to be responded to 
+
+===
+
+KEY
+
+===
+
+-       :   grey    :   no post
+No      :   red     :   taught but did not post 
+Pending :   orange  :   taught and posted (but not responded)
+Done     :   green   :   post responded 
+
+
+===
+
+FORMULA
+
+===
+
+=IF(
+    VLOOKUP($A72, {'Teaching Frequency'!$B:$B, 'Teaching Frequency'!$H:$H}, 2, FALSE), 
+    IF(
+        XLOOKUP(
+            VLOOKUP(A72, {Users!$C:$C, Users!$A:$A}, 2, FALSE) & F2,                # Search criteria (uid and date)
+            Posts!A:A & Posts!B:B,                                                  # corresponding columns for search criteria
+            Posts!F:F),                                                             # column of 1's (returns 1 if a post is made)
+        "y", 
+        "n"), 
+    "-") 
+
+STUDENT POSTS
+if (teaching_today):
+    VLOOKUP # of posts supposed to make
+    X/VLOOKUP posts made (search for name, then within that, search for date) (find a func to return array of nr of corresponding posts)
+    count posts made
+    if (all post for day made):
+        "Done"
+    else:
+        "X posts left"
+
+INSTRUCTOR RESPONSES
+if (student_posts != "-"):
+    fetch posts made so far and see if they have been responded to
+    
+
+    
+ 
+ 
+ 		
+
+===
+
+HELPFUL slightly
+
+===
+
+Turn on screen reader support
+VLOOKUP(search_key, range, index, [is_sorted])
+EXAMPLE
+VLOOKUP(10003, A2:B26, 2, FALSE)
+ABOUT
+Vertical lookup. Searches down the first column of a range for a key and returns the value of a specified cell in the row found.
+search_key
+The value to search for. For example, 42, "Cats", or I24.
+range
+The range to consider for the search. The first column in the range is searched for the key specified in search_key.
+index
+The column index of the value to be returned, where the first column in range is numbered 1.
+is_sorted - [optional]
+Indicates whether the column to be searched (the first column of the specified range) is sorted, in which case the closest match for search_key will be returned.
+<strong>Error</strong><span>Unknown function: 'XLOOKUP'.</span>Name box. Ctrl + J. A1 selected. Type a cell range or named range and hit the Enter key to navigate to the specified range.
+
+===
+
+METADATA EXAMPLE
+
+===
+
+history_size :  1
+folders :  ['self_reflection', 'emaan']
+nr :  381
+data :  {'embed_links': []}
+created :  2021-07-05T20:39:55Z        
+bucket_order :  3
+no_answer_followup :  0
+change_log :  [{'anon': 'no', 'uid': 'jzqdjhlqvpz5kr', 'data': 'kqr37gb18ck4zw', 'v': 'private', 'type': 'create', 'when': '2021-07-05T20:39:55Z'}]bucket_name :  Today
+history :  [{'anon': 'no', 'uid': 'jzqdjhlqvpz5kr', 'subject': 'Brianna Fan, CS 70, 07/01 [Discussion]', 'created': '2021-07-05T20:39:55Z', 'content': '<p><span style="text-decoration:underline">Before your section</span><br /> <br /><strong>What are the learning goals of the discussion section or lab?</strong><br />- continuing modular arithmetic, more focus on equations and chinese remainder theorem<br /><br /><strong>Which topic do you predict will be the most difficult for the students to learn?</strong><br />- how chinese remainder theorem works, what modular equivalencies mean<br /><br /><strong>What is one thing about your teaching that you want to focus on during this class?</strong><br />- being more encouraging, saying &#34;great question&#34; per this week&#39;s 375 class<br /><br /><strong>What activities will you do during class? (e.g. Group work? Pair work? Lecture? Physical demo?)</strong><br />- breakout rooms, group solving of the last CRT question<br /><br /><span style="text-decoration:underline">Immediately after your section</span><br /> <br /><strong>First things first I’m the realest</strong><br /> <br /><strong>What went really well today? :)</strong><br />- Students were very engaged, especially in the second section. They made some jokes and participated in the chat as well, seemed like they were comfortable with each other as well. Someone even asked where another student was bc they had an excused absence.<br /><br /><strong>What didn’t go so well?</strong><br />- Didn&#39;t get to the last question for the first section, but I got to it in the second and it went well.</p>\n<p>- Fireworks were going off (Canada Day) which was slightly disruptive but I think it actually made the atmosphere more relaxed and was fun for the students.<br /><br /><strong>Presentation</strong><br /> <br />Did you:</p>\n<ul><li>speak in a clear voice that could be easily heard?\xa0<strong>Yes</strong></li><li dir="ltr">write clearly?\xa0<strong>Yes</strong></li><li dir="ltr">listen carefully to students’ comments and questions without interrupting?\xa0<strong>Yes</strong></li><li dir="ltr">appear confident?\xa0<strong>Yes</strong></li><li dir="ltr">appear enthusiastic?\xa0<strong>Yes</strong></li><li dir="ltr">provide clear explanations?\xa0<strong>Yes</strong></li><li dir="ltr">explain terminology?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving your presentation:</strong><br />- Noting the times for how long it takes to go over stuff, as it always varies and one section may be slower than another<br /><br /><strong>Classroom Climate</strong><br /> <br />Did you:</p>\n<ul><li dir="ltr">address students of all genders equally?\xa0<strong>Yes</strong></li><li dir="ltr">address students of different ethnic groups equally?\xa0<strong>Yes</strong></li><li dir="ltr">address shy and forthcoming students equally?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students were generally happy (e.g. no angry students)?\xa0<strong>Yes</strong></li><li dir="ltr">take the time to learn your students’ names?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving the classroom climate:</strong><br />- More fun things at the beginning of class for those who come early, especially to engage the 1st section<br /><br /><strong>Student Participation</strong><br /> </p>\n<ul><li dir="ltr">Are students comfortable interacting with you?\xa0<strong>Yes</strong></li><li dir="ltr">Are the students comfortable interacting with each other?\xa0<strong>Yes</strong></li><li dir="ltr">How often were you talking versus the students?\xa0<strong>More student talking now but still mainly me</strong></li><li dir="ltr">Did you encourage the students to ask questions?\xa0<strong>Yes</strong></li><li dir="ltr">Are students comfortable asking 
+“stupid” questions?\xa0<strong>Yes</strong></li><li dir="ltr">Were you happy with how long it took for students to answer your questions?\xa0<strong>Yes</strong></li><li dir="ltr">Did the students seem interested and engaged?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for improving student participation:</strong><br />- Doing more of the group problem solving, but me stepping back/turning video off to let them brainstorm 
+for a bit without me<br /><br /><strong>Focusing on Students</strong><br /> <br />Did you:</p>\n<ul><li dir="ltr">try to answer a student’s question with a question?\xa0<strong>Yes</strong></li><li dir="ltr">try to find out what the students knew before giving an explanation?\xa0<strong>Yes</strong></li><li dir="ltr">provide explanations to address both struggling and excelling students?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students understood your explanations?\xa0<strong>Yes</strong></li><li dir="ltr">feel like students, in general, really understand with the material?\xa0<strong>Yes</strong></li></ul>\n<p> <br /><strong>Ideas for tailoring your teaching to the needs of your students:</strong><br />- Continuing to take their feedback, focusing on areas where it seems like they&#39;re struggling more--especially for the midterm</p>\n<p> <br /><strong>Link to previous self-reflection: @380</strong><br /> </p>'}]
+type :  question
+tags :  ['emaan', 'self_reflection', 'student', 'unanswered']
+tag_good :  []
+unique_views :  2
+children :  []
+tag_good_arr :  []
+no_answer :  1
+id :  kqr37gaymtt4zv
+config :  {'editor': 'rte', 'feed_groups': 'instr_kp3aw8qu5pkm9,jzqdjhlqvpz5kr', 'seen': {'379': 1, '380': 0}}
+status :  private
+drafts :  {}
+request_instructor :  0
+request_instructor_me :  False
+bookmarked :  2
+num_favorites :  0
+my_favorite :  False
+is_bookmarked :  False
+is_tag_good :  False
+q_edits :  []
+i_edits :  []
+s_edits :  []
+t :  1625523874917
+default_anonymity :  no
+
+
+===
+
+HISTORY 
+
+===
+
+anon :  no
+uid :  jzqdjhlqvpz5kr
+subject :  Brianna Fan, CS 70, 07/01 [Discussion]
+created :  2021-07-05T20:39:55Z
+content :  <p><span style="text-decoration:underline">Before your section</span><br /> <br /><strong>What are the learning goals of the discussion 
+section or lab?</strong><br />- continuing modular arithmetic, more focus on equations and chinese remainder theorem<br /><br /><strong>Which topic do you predict will be the most difficult for the students to learn?</strong><br />- how chinese remainder theorem works, what modular equivalencies mean<br /><br /><strong>What is one thing about your teaching that you want to focus on during this class?</strong><br />- being more encouraging, saying &#34;great question&#34; per this week&#39;s 375 class<br /><br /><strong>What activities will you do during class? (e.g. Group work? Pair work? Lecture? Physical demo?)</strong><br />- breakout rooms, group solving of the last CRT question<br /><br /><span style="text-decoration:underline">Immediately after your section</span><br /> <br /><strong>First things first I’m the realest</strong><br /> <br /><strong>What went really 
+well today? :)</strong><br />- Students were very engaged, especially in the second section. They made some jokes and participated in the chat as well, seemed like they were comfortable with each other as well. Someone even asked where another student was bc they had an excused absence.<br /><br /><strong>What didn’t go so well?</strong><br />- Didn&#39;t get to the last question for the first section, but I got to it in the second and it went well.</p>
+<p>- Fireworks were going off (Canada Day) which was slightly disruptive but I think it actually made the atmosphere more relaxed and was fun for the students.<br /><br /><strong>Presentation</strong><br /> <br />Did you:</p>
+<ul><li>speak in a clear voice that could be easily heard? <strong>Yes</strong></li><li dir="ltr">write clearly? <strong>Yes</strong></li><li dir="ltr">listen carefully to students’ comments and questions without interrupting? <strong>Yes</strong></li><li dir="ltr">appear confident? <strong>Yes</strong></li><li dir="ltr">appear enthusiastic? <strong>Yes</strong></li><li dir="ltr">provide clear explanations? <strong>Yes</strong></li><li dir="ltr">explain terminology? <strong>Yes</strong></li></ul>
+<p> <br /><strong>Ideas for improving your presentation:</strong><br />- Noting the times for how long it takes to go over stuff, as it always varies and one section may be slower than another<br /><br /><strong>Classroom Climate</strong><br /> <br />Did you:</p>
+<ul><li dir="ltr">address students of all genders equally? <strong>Yes</strong></li><li dir="ltr">address students of different ethnic groups equally? <strong>Yes</strong></li><li dir="ltr">address shy and forthcoming students equally? <strong>Yes</strong></li><li dir="ltr">feel like students 
+were generally happy (e.g. no angry students)? <strong>Yes</strong></li><li dir="ltr">take the time to learn your students’ names? <strong>Yes</strong></li></ul>
+<p> <br /><strong>Ideas for improving the classroom climate:</strong><br />- More fun things at the beginning of class for those who come early, especially to engage the 1st section<br /><br /><strong>Student Participation</strong><br /> </p>
+<ul><li dir="ltr">Are students comfortable interacting with you? <strong>Yes</strong></li><li dir="ltr">Are the students comfortable interacting with each other? <strong>Yes</strong></li><li dir="ltr">How often were you talking versus the students? <strong>More student talking now but still mainly me</strong></li><li dir="ltr">Did you encourage the students to ask questions? <strong>Yes</strong></li><li dir="ltr">Are students comfortable asking “stupid” questions? <strong>Yes</strong></li><li dir="ltr">Were you happy with how long it took for students to answer your questions? <strong>Yes</strong></li><li dir="ltr">Did the students seem interested and engaged? <strong>Yes</strong></li></ul>
+<p> <br /><strong>Ideas for improving student participation:</strong><br />- Doing more of the group problem solving, but me stepping back/turning 
+video off to let them brainstorm for a bit without me<br /><br /><strong>Focusing on Students</strong><br /> <br />Did you:</p>
+<ul><li dir="ltr">try to answer a student’s question with a question? <strong>Yes</strong></li><li dir="ltr">try to find out what the students knew before giving an explanation? <strong>Yes</strong></li><li dir="ltr">provide explanations to address both struggling and excelling students? <strong>Yes</strong></li><li dir="ltr">feel like students understood your explanations? <strong>Yes</strong></li><li dir="ltr">feel like students, in general, really understand with the material? <strong>Yes</strong></li></ul>
+<p> <br /><strong>Ideas for tailoring your teaching to the needs of your students:</strong><br />- Continuing to take their feedback, focusing on areas where it seems like they&#39;re struggling more--especially for the midterm</p>
+<p> <br /><strong>Link to previous self-reflection: @380</strong><br /> </p>
